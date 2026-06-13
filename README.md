@@ -188,6 +188,9 @@ composer install
 ./vendor/bin/phpunit
 ```
 
-## License
+## Contributing
+
+Contributions are welcome. Open an issue to discuss larger changes, then send a
+pull request. Run the test suite and formatter before submitting.## License
 
 MIT

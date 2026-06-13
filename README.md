@@ -1,5 +1,10 @@
 # Axene Mailer PHP SDK
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-1F8A5B?style=flat-square&labelColor=101010)](LICENSE)
+[![Swift Package](https://img.shields.io/badge/SwiftPM-compatible-F05138?style=flat-square&labelColor=101010&logo=swift&logoColor=white)](https://swift.org/package-manager)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-FFD100?style=flat-square&labelColor=101010)](#contributing)
+[![Built in Kenya](https://img.shields.io/badge/Built%20in-Nairobi%2C%20Kenya-101010?style=flat-square&labelColor=101010)](https://axene.io)
+
 Official PHP client for the [Axene Mailer](https://mail.axene.io) API. Email
 marketing and transactional email for Africa, with KES pricing and M-Pesa
 billing.
